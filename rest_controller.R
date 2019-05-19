@@ -1,7 +1,7 @@
 #make the model
 source("make_model.R")
 
-#* @get / predict_petal_length
+#* @get / datatable
 
 get_predict_length <- function(petal_width)
 {
